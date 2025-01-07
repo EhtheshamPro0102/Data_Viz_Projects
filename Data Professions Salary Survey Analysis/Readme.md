@@ -1,4 +1,4 @@
-**Project: Salary Insights of Data Professionals (Unique EDA & Tableau Storytelling)**  
+**Project: Salary Insights of Data Professionals (Tableau Storytelling)**  
 
 This is a **unique, self-driven project** where I downloaded the **IT Salary Survey dataset from Kaggle** and independently carried out the entire data preparation, cleaning, and analysis process using **Python (Pandas)** and **Excel**.  
 
